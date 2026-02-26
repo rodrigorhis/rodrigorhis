@@ -57,14 +57,12 @@ Timing: 182 BPM | Ghost notes on | Fills @ pre-chorus | Stick flips: situational
 
 ## 🧠 Tech Stack — Power‑Ups
 
-<p align="left">
-  https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white
-  https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB
-  https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white
-  https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-  https://img.shields.io/badge/Cloud-00C7B7?style=for-the-badge&logoColor=white
-  https://img.shields.io/badge/Automation-Netmiko%20%7C%20Nornir%20%7C%20Ansible-8A2BE2?style=for-the-badge
-</p>
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-00C7B7?style=for-the-badge&logoColor=white)
+![Automation: Netmiko | Nornir | Ansible](https://img.shields.io/badge/Automation-Netmiko%20%7C%20Nornir%20%7C%20Ansible-8A2BE2?style=for-the-badge)
 
 ---
 
