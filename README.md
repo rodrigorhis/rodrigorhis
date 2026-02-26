@@ -86,8 +86,6 @@ Timing: 182 BPM | Ghost notes on | Fills @ pre-chorus | Stick flips: situational
 - 🤖 **ChatOps‑for‑NetOps** — quick automations from chat
 - ☁️ **Cloud‑Connect** — hybrid networking patterns
 
-*(Pin repos on your profile → “Customize your pins”)*
-
 ---
 
 ## 📊 Stats — High Score
@@ -126,7 +124,11 @@ Timing: 182 BPM | Ghost notes on | Fills @ pre-chorus | Stick flips: situational
 Press **START** → Check pinned repos • Insert **COIN** → `git clone`
 
 <p align="center">
-  https://capsule-render.vercel.app/api?type=rect&color=0:00ffcc,100:ff00cc&height=4&section=footer
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffcc,100:ff00cc&height=4&section=footer"
+    alt="gradient divider"
+    width="100%"
+  />
 </p>
 
 ![snake gif](https://raw.githubusercontent.com/rodrigorhis/rodrigorhis/output/snake.svg)
