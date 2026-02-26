@@ -31,6 +31,25 @@
   <a href = "mailto:rodrigo.rhis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigorhis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rodrigorhis/rodrigorhis/blob/output/github-contribution-grid-snake.svg)
- 
+<p align="center">
+<svg width="600" height="80" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="600" height="80" fill="#0d0d0d"/>
+
+  <!-- Router Left -->
+  <rect x="20" y="25" width="40" height="30" fill="#00ffcc"/>
+  <text x="40" y="45" text-anchor="middle" fill="#000" font-size="10">R1</text>
+
+  <!-- Router Right -->
+  <rect x="540" y="25" width="40" height="30" fill="#00ffcc"/>
+  <text x="560" y="45" text-anchor="middle" fill="#000" font-size="10">R2</text>
+
+  <!-- Packet -->
+  <rect x="70" y="35" width="15" height="10" fill="#ff00cc">
+    <animate attributeName="x" from="70" to="520" dur="2s" repeatCount="indefinite"/>
+  </rect>
+
+</svg>
+</p>
+
 </div>
