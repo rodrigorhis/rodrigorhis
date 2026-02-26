@@ -90,14 +90,11 @@ Timing: 182 BPM | Ghost notes on | Fills @ pre-chorus | Stick flips: situational
 
 ## 📊 Stats — High Score
 
-<p align="left">
-  https://github-readme-stats.vercel.app/api?username=rodrigorhis&show_icons=true&theme=tokyonight&hide_border=true
-  https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigorhis&layout=compact&theme=tokyonight&hide_border=true
-</p>
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigorhis&show_icons=true&theme=tokyonight&hide_border=true)
 
-<p>
-  https://streak-stats.demolab.com?user=rodrigorhis&theme=tokyonight&hide_border=true
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigorhis&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rodrigorhis&theme=tokyonight&hide_border=true)
 
 ---
 
