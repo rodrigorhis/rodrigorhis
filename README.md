@@ -3,7 +3,7 @@
 <!-- ============================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:ff00cc,100:00ffcc&height=220&section=header&text=RODRIGO%20RHIS&fontSize=60&fontColor=0d0d0d&animation=fadeIn" alt="Rodrigo Rhis header"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:ff00cc,100:00ffcc&height=220&section=header&text=RODRIGO%20RHIS&fontSize=60&fontColor=ffffff&animation=fadeIn" alt="Rodrigo Rhis header"/>
 </p>
 
 <p align="center">
@@ -15,6 +15,19 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2800&pause=600&color=00FFCC&center=true&vCenter=true&width=780&lines=Fast+beats.+Fast+packets.;Routing%2C+Switching+%26+Automation.;Python+%2B+Cloud+in+progress.;Pop-punk+energy+meets+enterprise+networks." alt="typing banner"/>
 </p>
+
+---
+
+&nbsp;<div align="center">
+  [![Last.fm](https://novatorem.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff")](https://novatorem.vercel.app/redirect)
+</div>
+
+&nbsp;<div align="center">
+  [Fork](https://github.com/novatorem/novatorem/blob/main/SetUp.md) this [unlicensed](https://choosealicense.com/licenses/unlicense/) repository to recreate!<br><br>
+  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
+  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mail.novac.dev/)
+  [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
+</div>
 
 ---
 
@@ -34,24 +47,31 @@
 
 ---
 
-## 🥁 Drum Rack (Pop‑Punk Kit)
+<h3 align="left">🥁 Drum Rack (Pop‑Punk Kit)</h3>
 
-[ Kick ] [ Snare ] [ Rack ] [ Floor ]  ||  [ HH ] [ Crash ] [ Ride ]
-⬛       ⬜⬛⬜      ⬜⬜       ⬜⬜           ║║     ✶         ◯
-Timing: 182 BPM | Ghost notes on | Fills @ pre-chorus | Stick flips: situational
+<div align="left">
+<pre>
+[ Kick ] [ Snare ] [ Rack ] [ Floor ]   ||   [ HH ] [ Crash ] [ Ride ]
+   ⬛        ⬜⬛⬜     ⬜⬜       ⬜⬜            ║║        ✶          ◯
 
-> _“Keep it punchy, keep it tight—low latency, high energy.”_
+Timing: 182 BPM | Ghost notes: ON | Fills: pre‑chorus | Stick flips: situational
+</pre>
+</div>
+
+<p align="left"><em>Keep it punchy, keep it tight—low latency, high energy.</em></p>
 
 ---
 
 ## 📡 Packet Run (8‑bit)
 
+<div align="left">
+<pre>
 ┌────────┐     ┌────────┐     ┌────────┐
 │  Host  ├────►│  R1    ├────►│  R2    │────► Internet
 └────────┘     └────────┘     └────────┘
 ░░░░░░ SYN ░░░░░░ ACK ░░░░░░ DATA ░░░░░░ FIN ░░░░░░
-
-
+</pre>
+</div>
 
 ---
 
@@ -89,13 +109,9 @@ Timing: 182 BPM | Ghost notes on | Fills @ pre-chorus | Stick flips: situational
 <h3 align="left">📊 Stats — High Score</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigorhis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigorhis&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" />
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rodrigorhis&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=rodrigorhis&theme=tokyonight&hide_border=true&background=00000000" />
-</p>
 ---
 
 ## 🏆 Achievements
