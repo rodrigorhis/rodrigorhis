@@ -1,55 +1,70 @@
-### Hi there I'm Rodrigo Rhis!
+🎮 Player 1 has entered the Network
 
-- 🔭 I’m currently working with Network
-- 🌱 In my free time I'm learning Python and Cloud
-- 🤔 I’m looking for help with Python Network Programming
-- 💬 Ask me about Network things (It will be a plasure to help you)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm a drummer and soccer lover
-- ✈️ Love to travel
+👾 About Me
 
-<div align="center">
-  <a href="https://github.com/rodrigorhis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigorhis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigorhis&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="rods" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/68618943?v=4?width=300&height=300">
-</div>
-  
-##
-  
-<div> 
-  <a href="https://www.youtube.com/channel/UCn34KaR-mg9zZ72xjYRU5eA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/rodrigorhis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rodrigorhis" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discordapp.com/users/rods#1235" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:rodrigo.rhis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rodrigorhis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-<p align="center">
-<svg width="600" height="80" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg">
 
-  <rect width="600" height="80" fill="#0d0d0d"/>
+Hi there, I’m Rodrigo Rhis!
 
-  <!-- Router Left -->
-  <rect x="20" y="25" width="40" height="30" fill="#00ffcc"/>
-  <text x="40" y="45" text-anchor="middle" fill="#000" font-size="10">R1</text>
+🔭 Currently working with Enterprise Networks
 
-  <!-- Router Right -->
-  <rect x="540" y="25" width="40" height="30" fill="#00ffcc"/>
-  <text x="560" y="45" text-anchor="middle" fill="#000" font-size="10">R2</text>
+🌱 Learning Python 🐍 + Cloud ☁️
 
-  <!-- Packet -->
-  <rect x="70" y="35" width="15" height="10" fill="#ff00cc">
-    <animate attributeName="x" from="70" to="520" dur="2s" repeatCount="indefinite"/>
-  </rect>
+🤔 Looking for help with Python Network Programming
 
-</svg>
-</p>
+💬 Ask me about routing, switching, automation — it’ll be a pleasure to help!
 
-</div>
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I’m a 🥁 drummer & ⚽ soccer lover
+
+✈️ Travel addict
+
+🧠 Tech Stack (Power-Ups Collected)
+[ Cisco ] [ Python ] [ APIs ] [ Netmiko ] [ NAPALM ]
+[ REST ] [ Zabbix ] [ Linux ] [ Git ] [ Cloud ]
+
+🥁 Drummer Mode Activated
+O
+/|\
+/ \
+---|--- BOOM! CRASH! RIDE!
+( o )
+
+🥁 Inspired by pop-punk energy
+
+🎵 Fast beats + fast packets
+
+⚡ 180 BPM and 10Gbps links
+
+
+
+📡 Current Mission
+> Automating network tasks
+> Building DevNet-style labs
+> Leveling up in Cloud + NetDevOps
+> Writing clean Python scripts
+
+🕹️ GitHub Stats
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+🛸 Connect With Me
+💼 LinkedIn: (add here)
+
+🎵 Drummer life: (optional)
+
+🌎 Based in Brazil 🇧🇷
+
+
+🎮 Bonus Retro Vibes (Optional Pixel Badges)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Blink-182 Mode](https://img.shields.io/badge/Pop--Punk-Activated-ff69b4?style=for-the-badge)
+
+🕹️ GAME STATUS
+Network Automation Level: ███████░░ 80%
+Python Skill Tree: ██████░░░ 70%
+Cloud Expansion Pack: ████░░░░░ 40%
+Drum Speed: ██████████ 100%
+
