@@ -126,7 +126,7 @@ Timing: 182 BPM | Ghost notes: ON | Fills: pre‑chorus | Stick flips: situation
 ## 🌎 Connect With Me
 
 - 💼 LinkedIn: [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/rodrigorhis)
-- 📧 Email: [![Gmail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=red)](https://gmail.com/)
+- 📧 Email: [![Gmail](https://img.shields.io/badge/gmail-M-red)](https://gmail.com/)
 - 🥁 Drummer life | ⚽ Soccer | ✈️ Travel
 
 ---
